@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/63/37/51/360_F_463375173_vBKRkUbVoCuS9lpUmhdfCc13pprPr148.jpg)
+![MasterHead](https://t4.ftcdn.net/jpg/04/63/37/51/360_F_463375173_vBKRkUbVoCuS9lpUmhdfCc13pprPr148.jpg)
 <h1 align="center">Hi! , I'm Shafin Mehnaz</h1>
 <h3 align="center">I'm a Computer Science Student</h3>
 
