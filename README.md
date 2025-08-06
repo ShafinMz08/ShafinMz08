@@ -2,7 +2,7 @@
 <h1 align="center">Hi! , I'm Shafin Mehnaz</h1>
 <h3 align="center">I'm a Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently exploring **Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me **mehnazshafin252@gmail.com**
 
