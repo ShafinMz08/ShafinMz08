@@ -4,7 +4,9 @@
 ---
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Profile Banner" width="600"/>
+  <p align="center">
+  <img src="./assets/banner.png" alt="Profile Banner" width="100%"/>
+</p>
 </p>
 
 ---
