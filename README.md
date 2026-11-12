@@ -83,16 +83,6 @@ Currently expanding my knowledge of LLM-powered applications, Retrieval-Augmente
 
 ---
 
-### GitHub Overview
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=ShafinMz08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafinMz08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
 <p align="center">
   <i>Curiosity drives learning. Building turns it into impact.</i>
 </p>
