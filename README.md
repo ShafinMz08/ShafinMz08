@@ -5,7 +5,7 @@
 
 <p align="center">
   <p align="center">
-  <img src="./assets/bannerx.png" alt="Profile Banner" width="100%"/>
+  <img src="./assets/bannerx.jpg" alt="Profile Banner" width="100%"/>
 </p>
 </p>
 
